@@ -3468,6 +3468,7 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
+  colour: blue;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
